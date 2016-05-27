@@ -1,0 +1,17 @@
+{
+  "name": "init-bower-starter",
+  "authors": [
+    "Sean Amarasinghe <szaranger@yahoo.com>"
+  ],
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
